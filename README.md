@@ -11,3 +11,6 @@ Batch_size = 50.
 
 Данные на графиках ниже приведены для 3( голубым цветом) и 4( розовым цветом) этапов.
 ![Графики для 3 и 4 этапов](https://github.com/IGRICHINSKYBSU/obrabMultimediaLab2/raw/master/68747470733a2f2f692e6962622e636f2f76734e563733592f312e706e67.png) 
+
+### Categorical Crossentropy
+![1](https://github.com/IGRICHINSKYBSU/obrabMultimediaLab2/raw/master/cross.jpg) 
